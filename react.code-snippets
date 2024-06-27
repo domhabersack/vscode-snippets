@@ -1,0 +1,14 @@
+{
+  "React component": {
+    "scope": "javascriptreact,typescriptreact",
+    "prefix": "component",
+    "body": [
+      "export function $1() {",
+      "  return (",
+      "    <div>$2</div>",
+      "  )",
+      "}"
+    ],
+    "description": "A component skeleton"
+  }
+}

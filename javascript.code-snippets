@@ -4,5 +4,11 @@
     "prefix": "export{",
     "body": ["export { $1 } from \"./$1\""],
     "description": "Export a named export from a file of the same name"
+  },
+  "Named import": {
+    "scope": "javascript,typescript",
+    "prefix": "import{",
+    "body": ["import { $1 } from \"./$1\""],
+    "description": "Import a named export from a file of the same name"
   }
 }

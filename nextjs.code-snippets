@@ -1,0 +1,14 @@
+{
+  "App Router page": {
+    "scope": "javascriptreact,typescriptreact",
+    "prefix": "page",
+    "body": [
+      "export default function Page() {",
+      "  return (",
+      "    <div>$1</div>",
+      "  )",
+      "}"
+    ],
+    "description": "A page skeleton"
+  }
+}
